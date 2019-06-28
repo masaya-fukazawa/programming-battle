@@ -6,7 +6,7 @@ export class Accordion {
   private $accordion = $('#jsi-accordion');
   private $trigger = $('#jsi-toggle-trigger');
 
-  private isToggle = false;
+  private isToggle = true;
 
   constructor() {
     this.bindEvents();
