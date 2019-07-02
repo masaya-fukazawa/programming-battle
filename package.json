@@ -15,8 +15,8 @@
     "watch": "parcel **/index.html",
     "watch:slider": "parcel src/slider/index.html",
     "watch:drawer": "parcel src/drawer/index.html",
-    "watch:accordion": "parcel src/accordion/index.html"
-
+    "watch:accordion": "parcel src/accordion/index.html",
+    "watch:blog": "parcel src/blog/index.html"
   },
   "dependencies": {
     "jquery": "^3.4.1"
